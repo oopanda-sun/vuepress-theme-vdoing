@@ -8,7 +8,6 @@ npm run build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
-
 # deploy to github pages
 echo 'oopanda.cn' > CNAME
 
